@@ -100,11 +100,11 @@
         "composer-plugin-api": "^1.0 || ^2.0"
     },
     "require-dev": {
-        "composer/composer": "1.6.* || 2.0.*@dev",
-        "composer/semver": "1.0.* || 2.0.*@dev",
-        "phpunit/phpunit": "^4.8.36",
-        "sebastian/comparator": "^1.2.4",
-        "symfony/process": "^2.3"
+        "composer/composer": "2.1.*@dev@dev",
+        "composer/semver": "3.2.*@dev@dev",
+        "phpunit/phpunit": "^9.0.0",
+        "sebastian/comparator": "^4.0.0",
+        "symfony/process": "^5.0"
     },
     "scripts": {
         "test": "phpunit"
